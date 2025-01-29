@@ -11,4 +11,5 @@ Ce Git est consacré à la programmation d'une maquette offrant un aperçu de no
 ## Comment vous procurer la maquette de tests ?
 
 - Placez-vous dans le répertoire racine du Git et localisez le fichier ".apk"
-- Téléchargez-le en 
+- Téléchargez-le en cliquant dessus puis sur l'icône de téléchargement (cette action peut nécessiter l'autorisation des fichiers en provenance de sources inconnues sur votre appareil)
+- 
