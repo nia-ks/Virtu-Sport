@@ -1,2 +1,14 @@
-# Virtu-Sport
-L'ensemble des fichiers et du code utilisés pour la création de notre maquette d'application mobile dans le cadre du projet CATI de L3. Pour plus d'informations, veuillez vous référer au texte contenant les indications "README.md"
+# Bienvenue sur notre projet d'application mobile, Virtu-Sport
+
+Ce Git est consacré à la programmation d'une maquette offrant un aperçu de notre proposition. 
+
+## Qu'est-ce que Virtu'Sport ?
+
+
+## Qu'est-ce qui la démarque des autres applications ?
+
+
+## Comment vous procurer la maquette de tests ?
+
+- Placez-vous dans le répertoire racine du Git et localisez le fichier ".apk"
+- Téléchargez-le en 
