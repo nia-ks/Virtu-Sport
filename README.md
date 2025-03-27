@@ -12,4 +12,5 @@ Au delà de son positionnement géographique pionnier dans son domaine, Virtu'Sp
 
 - Placez-vous dans le répertoire racine du Git et localisez le fichier ".apk"
 - Téléchargez-le en cliquant dessus puis sur l'icône de téléchargement (cette action peut nécessiter l'autorisation des fichiers en provenance de sources inconnues sur votre appareil)
-- 
+- Ouvrez le fichier dans votre explorateur et acceptez de l'installer
+- Vous pouvez à présent lancer l'application qui s'est installée sous le nom de Virtu'Sport avec notre logo. Le questionnaire qui suit vous donnera un aperçu de l'expérience que nous souhaitons proposer.
